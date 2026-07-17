@@ -8,4 +8,5 @@ These modules simplify advanced scientific systems and programming logic into en
 ### 1. Your Amazing Immune System! (Ages 5-6)
 * **Core Concepts:** Host-pathogen defense, leukocyte roles, memory tracking, and preventative public health habits.
 * **Format:** Interactive narrative-driven slideshow with an integrated comprehension check.
-* **👉 [Click Here to View the Immunology Presentation PDF](./Spark2Stem_ How Your Body Fights Germs.pdf)** 
+* **👉 [Click Here to View the Immunology Presentation PDF](./Spark2Stem_%20How%20Your%20Body%20Fights%20Germs.pdf)
+** 
