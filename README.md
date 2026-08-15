@@ -1,5 +1,9 @@
 # STEM-and-Coding-Curriculum
-Educational slide modules and learning resources designed for youth STEM outreach.
+A collection of educational STEM slideshows I created to make science and technology concepts engaging and understandable for young learners.
+These presentations are designed for students ages 5–12 and cover topics related to STEM, coding, robotics, and technology.
+
+## 🌐 View the Slideshow Collection
+[View the STEM Slideshow Website](https://vani-0126.github.io/STEM-and-Coding-Curriculum/)
 
 ### 🤖 How Do Robots See the World?
 
